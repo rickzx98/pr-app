@@ -68,14 +68,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NicaBiometrics.exe" size="5867488">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NicaBiometrics.exe" size="5866976">
       <assemblyIdentity name="NicaBiometrics" version="1.0.0.0" publicKeyToken="1B3715CB2EFFF1BD" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Dymp8n5+HsUAOR9bS7GjAssCqA1olLIxfq+fuSFgL2Y=</dsig:DigestValue>
+        <dsig:DigestValue>U+ovEIp1WbmwmcgtbbKls8un8mr1s+T6NJtNBmzD3IU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
